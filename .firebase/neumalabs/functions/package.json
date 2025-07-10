@@ -1,0 +1,35 @@
+{
+  "name": "landing-page",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emailjs/browser": "^4.4.1",
+    "@radix-ui/react-slot": "^1.1.2",
+    "@splinetool/react-spline": "^4.0.0",
+    "@splinetool/runtime": "^1.9.64",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "cobe": "^0.6.3",
+    "critters": "^0.0.25",
+    "embla-carousel": "^8.6.0",
+    "embla-carousel-auto-scroll": "^8.5.2",
+    "embla-carousel-autoplay": "^8.5.2",
+    "embla-carousel-react": "^8.6.0",
+    "esbuild": "^0.25.6",
+    "framer-motion": "^12.4.2",
+    "lottie-react": "^2.4.1",
+    "lucide-react": "^0.475.0",
+    "next": "15.1.6",
+    "next-auth": "^4.24.11",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^3.0.2",
+    "firebase-frameworks": "^0.11.0",
+    "firebase-functions": "^6.0.1",
+    "firebase-admin": "^11.11.1"
+  },
+  "main": "server.js",
+  "engines": {
+    "node": "20"
+  }
+}

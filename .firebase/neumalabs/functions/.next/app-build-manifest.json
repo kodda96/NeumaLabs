@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-b8b44a32302e92e3.js",
+      "static/chunks/4bd1b696-e70a329bec28edfd.js",
+      "static/chunks/517-987885ed7b9f6534.js",
+      "static/chunks/main-app-3172d883f08f5b1e.js",
+      "static/chunks/app/_not-found/page-0c2ed782c098ecd8.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-b8b44a32302e92e3.js",
+      "static/chunks/4bd1b696-e70a329bec28edfd.js",
+      "static/chunks/517-987885ed7b9f6534.js",
+      "static/chunks/main-app-3172d883f08f5b1e.js",
+      "static/css/cae23003c95f21d6.css",
+      "static/chunks/651-6834896338bdf955.js",
+      "static/chunks/60-80e9b6046f21dc83.js",
+      "static/chunks/920-c34314058a6cc19a.js",
+      "static/chunks/app/layout-bf47d1cc3eda4ba6.js"
+    ],
+    "/api/auth/[...nextauth]/route": [
+      "static/chunks/webpack-b8b44a32302e92e3.js",
+      "static/chunks/4bd1b696-e70a329bec28edfd.js",
+      "static/chunks/517-987885ed7b9f6534.js",
+      "static/chunks/main-app-3172d883f08f5b1e.js",
+      "static/chunks/app/api/auth/[...nextauth]/route-183d4bb88fb96427.js"
+    ],
+    "/ai-supermodels/page": [
+      "static/chunks/webpack-b8b44a32302e92e3.js",
+      "static/chunks/4bd1b696-e70a329bec28edfd.js",
+      "static/chunks/517-987885ed7b9f6534.js",
+      "static/chunks/main-app-3172d883f08f5b1e.js",
+      "static/chunks/651-6834896338bdf955.js",
+      "static/chunks/60-80e9b6046f21dc83.js",
+      "static/chunks/565-e6c923df363b07e1.js",
+      "static/chunks/920-c34314058a6cc19a.js",
+      "static/chunks/app/ai-supermodels/page-c0270ee8b107fe29.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-b8b44a32302e92e3.js",
+      "static/chunks/4bd1b696-e70a329bec28edfd.js",
+      "static/chunks/517-987885ed7b9f6534.js",
+      "static/chunks/main-app-3172d883f08f5b1e.js",
+      "static/chunks/651-6834896338bdf955.js",
+      "static/chunks/565-e6c923df363b07e1.js",
+      "static/chunks/406-06814b6b108dac41.js",
+      "static/chunks/app/page-1cf5da130b045598.js"
+    ]
+  }
+}
